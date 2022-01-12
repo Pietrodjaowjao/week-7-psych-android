@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Girlfriend.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Menu_Girlfriend0000" x="0" y="0" width="692" height="646" frameX="-12" frameY="-9" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0001" x="742" y="0" width="716" height="649" frameX="0" frameY="-9" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0002" x="1508" y="0" width="716" height="646" frameX="0" frameY="-12" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0003" x="2274" y="0" width="692" height="643" frameX="-12" frameY="-12" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0004" x="3016" y="0" width="692" height="646" frameX="-12" frameY="-9" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0005" x="0" y="699" width="692" height="646" frameX="-12" frameY="-9" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0006" x="742" y="699" width="692" height="645" frameX="-12" frameY="-10" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0007" x="1484" y="699" width="692" height="654" frameX="-12" frameY="-1" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0008" x="1484" y="699" width="692" height="654" frameX="-12" frameY="-1" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0009" x="1484" y="699" width="692" height="654" frameX="-12" frameY="-1" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0010" x="2226" y="699" width="692" height="655" frameX="-12" frameY="0" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0011" x="2226" y="699" width="692" height="655" frameX="-12" frameY="0" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0012" x="2226" y="699" width="692" height="655" frameX="-12" frameY="0" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0013" x="2968" y="699" width="692" height="654" frameX="-12" frameY="-1" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0014" x="2968" y="699" width="692" height="654" frameX="-12" frameY="-1" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0015" x="0" y="1404" width="692" height="649" frameX="-12" frameY="-6" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0016" x="742" y="1404" width="716" height="652" frameX="0" frameY="-6" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0017" x="1508" y="1404" width="716" height="651" frameX="0" frameY="-7" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0018" x="2274" y="1404" width="692" height="648" frameX="-12" frameY="-7" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0019" x="3016" y="1404" width="692" height="649" frameX="-12" frameY="-6" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0020" x="0" y="2106" width="692" height="649" frameX="-12" frameY="-6" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0021" x="742" y="2106" width="692" height="650" frameX="-12" frameY="-5" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0022" x="1484" y="2106" width="692" height="648" frameX="-12" frameY="-7" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0023" x="1484" y="2106" width="692" height="648" frameX="-12" frameY="-7" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0024" x="1484" y="2106" width="692" height="648" frameX="-12" frameY="-7" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0025" x="2226" y="2106" width="692" height="647" frameX="-12" frameY="-8" frameWidth="716" frameHeight="658"/>
+	<SubTexture name="Menu_Girlfriend0026" x="2226" y="2106" width="692" height="647" frameX="-12" frameY="-8" frameWidth="716" frameHeight="658"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+{
+	"idle_anim": "BF idle yellow",
+	"image": "Menu_HD-BF",
+	"position": [
+		80,
+		20
+	],
+	"scale": 0.8,
+	"confirm_anim": "BF HEY!!"
+}
